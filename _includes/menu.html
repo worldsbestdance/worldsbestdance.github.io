@@ -1,0 +1,14 @@
+<aside id="sidebar">
+    <nav id="navigation">
+      <h2>Menu</h2>
+      <ul>
+        {% for link in site.links %}
+          <li><a href="{{ site.url }}{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a></li>
+        {% endfor %}
+        <li><a class="feed" href="/about" title="about us">About Us</a></li>
+        <li><a class="feed" href="/photos" title="Photos">Photos</a></li>
+          <li><a class="feed" href="/photos" title="Videos">Videos</a></li>
+        <li><a class="feed" href="/contact" title="Contact Us">Contact Us</a></li>
+      </ul>
+    </nav>
+</aside>
