@@ -13,47 +13,47 @@ people:
   pic: 1
   position: Founder | Lead | Zin Instructor
   social:
-    - title: twitter
-      url: #
+    # - title: twitter
+    #   url: #
     - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+      url: www.facebook.com/kalburgimanjunath
+    # - title: stack-overflow
+    #   url: #
 
 - name: Bandla Mohan Reddy
   pic: 2
   position: Founder | Zin Instructor
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+  # social:
+  #   - title: twitter
+  #     url: #
+  #   - title: facebook
+  #     url: #
+  #   - title: linkedin
+  #     url: #
 
 - name: Rubina Shaik
   pic: 3
   position: Founder | Zin Instructor
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+  # social:
+  #   - title: twitter
+  #     url: #
+  #   - title: facebook
+  #     url: #
+  #   - title: google-plus
+  #     url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+# social:
+#   - title: twitter
+#     url: http://twitter.com/jekyllrb
+#   - title: facebook
+#     url:
+#   - title: stack-overflow
+#     url: http://stackoverflow.com/questions/tagged/jekyll
+#   - title: bitbucket 
+#     url: http://bitbucket.org/jekyll
+#   - title: github
+#     url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 address:
